@@ -1,0 +1,147 @@
+#block_top
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.color_link
+{
+    color: #434343;
+    font-size: 95%;
+}
+
+.contain
+{
+    padding: 5px;
+    margin: 3px;
+}
+
+.log
+{
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.logo
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 90px;
+    width: auto;
+}
+
+
+.search
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.tool
+{   
+    width: 40%;
+    height: 35px;
+    border-radius: 30px 30px 30px 30px;
+    font-style: italic;
+    font-size: 120%;
+    background-image: url("image_google/micro.png");
+    background-size: 12%;
+    background-position: 102% 50%;
+    background-repeat: no-repeat; 
+}
+
+.move_button
+{
+    display: flex;
+    justify-content: center;
+}
+
+.two_button
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 22px;
+    width: 300px;
+}
+.button
+{
+    height: 35px;
+    border-radius: 5px 5px;
+    border-spacing: 5px 5px;
+    font-size: 90%;
+    background-color: #f4f4f4;
+}
+
+.color_button
+{
+    color:#434343;   
+}
+
+.placement
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 337px;
+}
+.france
+{
+    display: flex;
+    justify-content: center;
+    justify-content: flex-start;
+    height: 42px;
+    background-color:#f4f4f4;
+}
+
+.end_page
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.part1
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 42px;
+    width: 200px;
+    background-color:#f4f4f4;
+}
+
+.part2
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 47px;
+    width: 396px;
+    background-color: #f4f4f4;
+}
+
+.separation
+{
+    display: flex;
+    background-color: #e8e8e8;
+    height: 0.5px;
+}
+.separator
+{
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f4;
+    width: 830px;
+    
+}
+
+.first
+{
+    max-width: 50px;
+    width: auto;
+}
